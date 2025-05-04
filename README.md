@@ -73,4 +73,4 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 
 ## 🙌 Credits
 
-Created by [mizogg.co.uk](https://mizogg.com)
+Created by [mizogg.com](https://mizogg.com)
