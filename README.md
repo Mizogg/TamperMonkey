@@ -30,8 +30,8 @@ Tampermonkey is a browser extension that lets you run userscripts.
 ### 2. Install the Script
 
 Click this link to install:  
-**[Install Mizogg Highlighter Script](https://raw.githubusercontent.com/yourusername/mizogg-highlighter/main/mizogg-highlighter.user.js)**  
-*(Replace with actual raw URL from your GitHub)*
+**[Install Mizogg Highlighter Script](https://github.com/Mizogg/TamperMonkey/blob/main/Mizogg%20Highlighter%20All%20Sites%20with%20Auto-Clicker-2.5.user.js)**  
+
 
 Tampermonkey will prompt you to confirm. Click **Install**.
 
