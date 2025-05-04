@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name          Mizogg Highlighter All Sites with Auto-Clicker
-// @namespace     https://mizogg.co.uk
+// @namespace     https://mizogg.com
 // @version       2.5
 // @description   Highlights BTC Addresses and Auto-Clicker with Auto-Stop on Match
-// @author        mizogg.co.uk
+// @author        mizogg.com
 // @match         *://*/*
 // @grant         GM_registerMenuCommand
 // @grant         GM_setValue
