@@ -16,23 +16,44 @@ A powerful and flexible Tampermonkey userscript that highlights user-defined key
 
 ---
 
-## ⚙️ Installation
+## 🚀 How to Install and Use
 
-1. Install [Tampermonkey](https://www.tampermonkey.net/) browser extension.
-2. [Click here to install the script](https://raw.githubusercontent.com/yourusername/mizogg-highlighter/main/mizogg-highlighter.user.js) (Replace with actual raw GitHub link)
-3. Customize settings via the Tampermonkey menu.
+### 1. Install Tampermonkey
+
+Tampermonkey is a browser extension that lets you run userscripts.
+
+- Chrome: [Get it from Chrome Web Store](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+- Firefox: [Get it from Mozilla Add-ons](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
+- Microsoft Edge: [Get it from Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
+- Safari or others: Visit [Tampermonkey.net](https://www.tampermonkey.net/)
+
+### 2. Install the Script
+
+Click this link to install:  
+**[Install Mizogg Highlighter Script](https://raw.githubusercontent.com/yourusername/mizogg-highlighter/main/mizogg-highlighter.user.js)**  
+*(Replace with actual raw URL from your GitHub)*
+
+Tampermonkey will prompt you to confirm. Click **Install**.
+
+### 3. Set Up Your Preferences
+
+Once installed, click the **Tampermonkey icon** in your browser, then select the script from the dashboard. Use the user script menu to:
+
+- Set your **keywords** (e.g. `1Bitcoin,bc1q,address`)
+- Choose your **highlight style** (CSS)
+- Define the **auto-clicker interval**
+- Enable or disable **alerts**
+
+You can access these settings anytime from the Tampermonkey menu.
 
 ---
 
 ## 🛠 Usage
 
 - Press **Alt + A** to toggle the auto-clicker.
-- Use the **floating button** in the corner to control auto-clicker status.
-- Configure:
-  - Keywords (comma-separated)
-  - Highlight style (CSS)
-  - Click interval (ms)
-  - Toggle alert notifications
+- Use the **floating button** at the bottom-right corner to toggle it as well.
+- If any keyword is detected, it will be highlighted and the auto-clicker will stop automatically.
+- Alerts will display matched keywords if enabled.
 
 ---
 
@@ -47,7 +68,7 @@ A powerful and flexible Tampermonkey userscript that highlights user-defined key
 
 ## 📄 License
 
-MIT License
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
 
 ---
 
