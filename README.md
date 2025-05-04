@@ -53,4 +53,4 @@ MIT License
 
 ## 🙌 Credits
 
-Created by [mizogg.co.uk](https://mizogg.co.uk)
+Created by [mizogg.co.uk](https://mizogg.com)
